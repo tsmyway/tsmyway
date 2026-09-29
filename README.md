@@ -1,56 +1,56 @@
-<div align="center">
+<img align="left" width="200" src="https://i.imgur.com/TdsX6tC.png" alt="Me" />
 
-# 🐙 tsmyway
-### Software Engineering
+<h3>¡Hola, soy tsmyway! 👋<br /><sub>Software Engineering</sub></h3>
 
-<p align="center">
-  <a href="https://github.com/tsmyway"><img src="https://img.shields.io/github/followers/tsmyway?label=FOLLOWERS&color=21262d&labelColor=0d1117&logo=github&logoColor=ffffff&style=for-the-badge" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/ARCH%20LINUX-WAOS-1793D1?labelColor=0d1117&style=for-the-badge&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
-</p>
-
-</div>
+<h3>
+  <img src="https://img.shields.io/github/followers/tsmyway?label=FOLLOWERS&color=21262d&labelColor=0d1117&logo=github&logoColor=ffffff&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-2-21262d?labelColor=0d1117&logo=googleanalytics&logoColor=777bb4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/TOTAL%20STARS-0-21262d?labelColor=0d1117&logo=apachespark&logoColor=e3b341&style=for-the-badge" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/STATUS-CODING-21262d?labelColor=0d1117&logo=statuspage&logoColor=1793D1&style=for-the-badge" alt="Status" />
+</h3>
 
 ---
 
 > [!CAUTION]
 > ### Precaución
-> - 🏷️ ¡Que onda, anaconda!
+> - 🏷️ ¡Qué onda, anaconda!
 
 > [!NOTE]
 > ### Enfoque
-> - 💻 Actualmente enfocado en aprender desarrollo backend con **PHP**, **Java** y **C#**.
+> - 💻 Actualmente enfocado en aprender **desarrollo backend** con **PHP**, **Java** y **C#**.
 
-<img align="right" width="220" src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="Cat GIF" />
+<img align="right" width="200" src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="Cat Me" />
 
 > [!IMPORTANT]
-> ### Sistema & Entorno
-> - 🐧 Entorno diario sobre **Arch Linux** (waos). <i>"I use Arch btw."</i>
+> ### Sistema
+> - 🐧 Entorno diario sobre **Arch Linux**. <i>"I use Arch btw."</i>
 
 > [!WARNING]
-> ### Bases de Datos
-> - 🗄️ Modelado relacional, consultas y persistencia con **PostgreSQL** y **MySQL**.
+> ### Gustos
+> - ☕ Café, viciar al **Minecraft**, trastear con Linux y programar escuchando buena **música**.
 
 > [!TIP]
-> ### Contacto & Colaboraciones
+> ### Contacto
 > - 🤝 Si te interesa colaborar o tienes alguna propuesta, ¡mándame un mensaje!
-
-<br clear="both"/>
 
 ---
 
 ### 💻 Stack & Tecnologías
 
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,java,cs,mysql,postgres,arch,git,github&theme=dark" alt="My Skills" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="40" alt="PHP"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="40" alt=".NET"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" alt="Postgres"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" alt="Mysql"/>
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="40" alt="Arch Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40" alt="Github"/>
+</p>
 
 ---
 
-### 📌 Enfoque Actual
+### 📌 Resumen Actual
 
 ```php
 <?php
@@ -64,11 +64,11 @@ final class Profile extends SoftwareEngineer
     public function getSystemInfo(): array
     {
         return [
-            'os'       => 'Arch Linux',
+            'os'       => 'Arch Linux (waos)',
             'backend'  => ['PHP 8.x', 'Java', 'C# / .NET'],
             'data'     => ['PostgreSQL', 'MySQL'],
             'vcs'      => ['Git', 'GitHub'],
-            'focus'    => 'Aprender lo maximo que se pueda',
+            'focus'    => 'Aprender lo máximo que se pueda',
         ];
     }
 }
