@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/STATUS-CODING-21262d?labelColor=0d1117&logo=statuspage&logoColor=1793D1&style=for-the-badge" alt="Status" />
 </h3>
 
-<hr clear="both" />
+<br clear="all" />
+
+---
 
 > [!CAUTION]
 > ### Precaución
