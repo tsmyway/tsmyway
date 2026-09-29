@@ -5,7 +5,6 @@
 <h3>
   <img src="https://img.shields.io/github/followers/tsmyway?label=FOLLOWERS&color=21262d&labelColor=0d1117&logo=github&logoColor=ffffff&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-2-21262d?labelColor=0d1117&logo=googleanalytics&logoColor=777bb4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/TOTAL%20STARS-0-21262d?labelColor=0d1117&logo=apachespark&logoColor=e3b341&style=for-the-badge" alt="Total Stars" />
   <img src="https://img.shields.io/badge/STATUS-CODING-21262d?labelColor=0d1117&logo=statuspage&logoColor=1793D1&style=for-the-badge" alt="Status" />
 </h3>
 
