@@ -1,10 +1,9 @@
 <div align="center">
 
 # 🐙 tsmyway
-### Software Engineering & Backend
+### Software Engineering
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tsmyway&label=PROFILE%20VIEWS&color=A34B41&labelColor=0d1117&style=for-the-badge" alt="Views" />
   <a href="https://github.com/tsmyway"><img src="https://img.shields.io/github/followers/tsmyway?label=FOLLOWERS&color=21262d&labelColor=0d1117&logo=github&logoColor=ffffff&style=for-the-badge" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/ARCH%20LINUX-WAOS-1793D1?labelColor=0d1117&style=for-the-badge&logo=arch-linux&logoColor=1793D1" alt="Arch Linux" />
 </p>
