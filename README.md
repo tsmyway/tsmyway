@@ -1,4 +1,4 @@
-<img align="left" width="200" src="https://i.imgur.com/TdsX6tC.png" alt="Me" />
+<img align="left" width="200" src="https://i.imgur.com/pKeiWZL.png" alt="Me" />
 
 <h3>¡Hola, soy tsmyway! 👋<br /><sub>Software Engineering</sub></h3>
 
